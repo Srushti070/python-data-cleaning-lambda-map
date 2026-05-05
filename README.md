@@ -2,7 +2,7 @@
 This project demonstrates how to clean and preprocess messy datasets using Python's functional programming tools like `map()` and `lambda`.
 ---
 
-## 🚀 Features
+🚀 Features
 * Clean names (remove spaces, capitalize properly)
 * Convert marks from string to integer
 * Normalize emails (lowercase, remove spaces)
@@ -10,14 +10,14 @@ This project demonstrates how to clean and preprocess messy datasets using Pytho
 * Validate numeric and alphabetic data
 * Add bonus marks to dataset
 
-## 📁 Project Structure
+ 📁 Project Structure
 ```
 python-data-cleaning-lambda-map/
 │── data_cleaning.py
 │── sample_data.py
 │── main.py
 ```
-## ▶️ How to Run
+##▶️ How to Run
 
 ```bash
 python main.py
